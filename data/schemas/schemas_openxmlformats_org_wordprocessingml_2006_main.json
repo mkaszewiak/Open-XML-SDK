@@ -56242,6 +56242,10 @@
         {
           "Version": "Office2013",
           "Value": "allowTextAfterFloatingTableBreak"
+        },
+        {
+          "Version": "Office2021",
+          "Value": "UsePre2018iOSMacLayout"
         }
       ]
     }
